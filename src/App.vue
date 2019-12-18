@@ -150,7 +150,7 @@ export default {
       imageURL: null,
       predictingImage: false,
       gCloudVisionUrl:
-        "https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDl66LUypIKFYT6NvGCtmQHrMwiyRLuwp8",
+        "https://vision.googleapis.com/v1/images:annotate?key=YOUR_GOOGLE_PROJECT_API_KEY",
       timerHandle: null,
       timerStart: 60,
       pointsIncrement: 10,
